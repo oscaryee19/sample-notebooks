@@ -1,0 +1,310 @@
+GL_Category,GL_Type,GL_Sub_Type,code,description,Balance_Sheet,PL_Statement,Statement_of_Net_Asset,Income_VS_Capital_NAV,type,P:Account/FNB_Test_CoA_01/GL_Level-01,P:Account/FNB_Test_CoA_01/GL_Level-02,P:Account/FNB_Test_CoA_01/GL_Level-03,P:Account/FNB_Test_CoA_01/GL_Level-04,P:Account/FNB_Test_CoA_01/GL_Level-05,P:Account/FNB_Test_CoA_01/GL_Level-06,P:Account/FNB_Test_CoA_01/GL_Level-07,P:Account/FNB_Test_CoA_01/GL_Level-08,P:Account/FNB_Test_CoA_01/GL_Level-09
+1. Asset,1.01 Investment - Non Derivative,1.01.01 Valuation - Equity ,1_01_01_001,Equity - Cost ,YES,-,-,-,Asset,N,-,EQUITY,DomCcy,Instrument_Domicile,Custodian,-,-,-
+1. Asset,1.01 Investment - Non Derivative,1.01.01 Valuation - Equity ,1_01_01_002,Equity - Market Value Adjustment ,YES,-,-,-,Asset,N,-,EQUITY,DomCcy,Instrument_Domicile,Custodian,-,-,-
+1. Asset,1.01 Investment - Non Derivative,1.01.01 Valuation - Equity ,1_01_01_003,Equity - FX Adjusment,YES,-,-,-,Asset,N,-,EQUITY,DomCcy,Instrument_Domicile,Custodian,-,-,-
+1. Asset,1.01 Investment - Non Derivative,1.01.02 Valuation - Mutual Fund,1_01_02_001,Mutual Fund - Cost ,YES,-,-,-,Asset,N,-,FUND - TBC - DO NOT EXIST YET,DomCcy,Instrument_Domicile,Custodian,-,-,-
+1. Asset,1.01 Investment - Non Derivative,1.01.02 Valuation - Mutual Fund,1_01_02_002,Mutual Fund - Market Value Adjustment ,YES,-,-,-,Asset,N,-,FUND - TBC - DO NOT EXIST YET,DomCcy,Instrument_Domicile,Custodian,-,-,-
+1. Asset,1.01 Investment - Non Derivative,1.01.02 Valuation - Mutual Fund,1_01_02_003,Mutual Fund - FX Adjusment,YES,-,-,-,Asset,N,-,FUND - TBC - DO NOT EXIST YET,DomCcy,Instrument_Domicile,Custodian,-,-,-
+1. Asset,1.01 Investment - Non Derivative,1.01.03 Valuation - Bond,1_01_03_001,Bond - Cost ,YES,-,-,-,Asset,N,-,BOND; COMPLEX BOND; INFLATION LINK BOND; MBS,DomCcy,Instrument_Domicile,Custodian,-,-,-
+1. Asset,1.01 Investment - Non Derivative,1.01.03 Valuation - Bond,1_01_03_002,Bond - Amortisation,YES,-,-,-,Asset,N,-,BOND; COMPLEX BOND; INFLATION LINK BOND; MBS,DomCcy,Instrument_Domicile,Custodian,-,-,-
+1. Asset,1.01 Investment - Non Derivative,1.01.03 Valuation - Bond,1_01_03_003,Bond - Market Value Adjustment ,YES,-,-,-,Asset,N,-,BOND; COMPLEX BOND; INFLATION LINK BOND; MBS,DomCcy,Instrument_Domicile,Custodian,-,-,-
+1. Asset,1.01 Investment - Non Derivative,1.01.03 Valuation - Bond,1_01_03_004,Bond - FX Adjusment,YES,-,-,-,Asset,N,-,BOND; COMPLEX BOND; INFLATION LINK BOND; MBS,DomCcy,Instrument_Domicile,Custodian,-,-,-
+1. Asset,1.01 Investment - Non Derivative,1.01.04 Valuation - Money Market,1_01_04_001,Money Market - Cost ,YES,-,-,-,Asset,N,-,MM - TBC - DO NOT EXIST YET,DomCcy,Instrument_Domicile,Custodian,-,-,-
+1. Asset,1.01 Investment - Non Derivative,1.01.04 Valuation - Money Market,1_01_04_002,Money Market - Market Value Adjustment ,YES,-,-,-,Asset,N,-,MM - TBC - DO NOT EXIST YET,DomCcy,Instrument_Domicile,Custodian,-,-,-
+1. Asset,1.01 Investment - Non Derivative,1.01.04 Valuation - Money Market,1_01_04_003,Money Market - FX Adjusment,YES,-,-,-,Asset,N,-,MM - TBC - DO NOT EXIST YET,DomCcy,Instrument_Domicile,Custodian,-,-,-
+1. Asset,1.02 Investment - Derivative,1.02.01 Valuation - ETD Future,1_02_01_001,ETD Future - Cost ,YES,-,-,-,Asset,N,-,FUTURE,DomCcy,-,-,Broker,-,-
+1. Asset,1.02 Investment - Derivative,1.02.01 Valuation - ETD Future,1_02_01_002,ETD Future - Market Value Adjustment ,YES,-,-,-,Asset,N,-,FUTURE,DomCcy,-,-,Broker,-,-
+1. Asset,1.02 Investment - Derivative,1.02.01 Valuation - ETD Future,1_02_01_003,ETD Future- FX Adjusment,YES,-,-,-,Asset,N,-,FUTURE,DomCcy,-,-,Broker,-,-
+1. Asset,1.02 Investment - Derivative,1.02.02 Valuation - ETD Option,1_02_02_001,ETD Option - Cost ,YES,-,-,-,Asset,N,-,EXCHANGE TRADED OPTION,DomCcy,-,-,Broker,-,-
+1. Asset,1.02 Investment - Derivative,1.02.02 Valuation - ETD Option,1_02_02_002,ETD Option - Market Value Adjustment ,YES,-,-,-,Asset,N,-,EXCHANGE TRADED OPTION,DomCcy,-,-,Broker,-,-
+1. Asset,1.02 Investment - Derivative,1.02.02 Valuation - ETD Option,1_02_02_003,ETD Option - FX Adjustment,YES,-,-,-,Asset,N,-,EXCHANGE TRADED OPTION,DomCcy,-,-,Broker,-,-
+1. Asset,1.02 Investment - Derivative,1.02.03 Valuation - OTC Option,1_02_03_001,OTC Option - Cost ,YES,-,-,-,Asset,N,-,EQUITY_OPITON,DomCcy,-,-,Broker,-,-
+1. Asset,1.02 Investment - Derivative,1.02.03 Valuation - OTC Option,1_02_03_002,OTC Option - Market Value Adjustment ,YES,-,-,-,Asset,N,-,EQUITY_OPITON,DomCcy,-,-,Broker,-,-
+1. Asset,1.02 Investment - Derivative,1.02.03 Valuation - OTC Option,1_02_03_003,OTC Option - FX Adjustment,YES,-,-,-,Asset,N,-,EQUITY_OPITON,DomCcy,-,-,Broker,-,-
+1. Asset,1.02 Investment - Derivative,1.02.04 Valuation - CFD,1_02_04_001,CFD - Cost ,YES,-,-,-,Asset,N,-,ContractForDifference,DomCcy,-,-,Broker,-,-
+1. Asset,1.02 Investment - Derivative,1.02.04 Valuation - CFD,1_02_04_002,CFD - Market Value Adjustment ,YES,-,-,-,Asset,N,-,ContractForDifference,DomCcy,-,-,Broker,-,-
+1. Asset,1.02 Investment - Derivative,1.02.04 Valuation - CFD,1_02_04_003,CFD - FX Adjustment,YES,-,-,-,Asset,N,-,ContractForDifference,DomCcy,-,-,Broker,-,-
+1. Asset,1.02 Investment - Derivative,1.02.05 Valuation - SWAP,1_02_05_001,SWAP - Cost,YES,-,-,-,Asset,N,-,"EquitySwap; InterestRateSwap; TotalReturnSwap, InflationSwap, CreditDefaultSwap, FxSwap, ForwardRateAgreement, CdsIndex",DomCcy,-,-,Broker,-,-
+1. Asset,1.02 Investment - Derivative,1.02.05 Valuation - SWAP,1_02_05_002,SWAP - Market Value Adjustment ,YES,-,-,-,Asset,N,-,"EquitySwap; InterestRateSwap; TotalReturnSwap, InflationSwap, CreditDefaultSwap, FxSwap, ForwardRateAgreement, CdsIndex",DomCcy,-,-,Broker,-,-
+1. Asset,1.02 Investment - Derivative,1.02.05 Valuation - SWAP,1_02_05_003,SWAP - FX Adjustment,YES,-,-,-,Asset,N,-,"EquitySwap; InterestRateSwap; TotalReturnSwap, InflationSwap, CreditDefaultSwap, FxSwap, ForwardRateAgreement, CdsIndex",DomCcy,-,-,Broker,-,-
+1. Asset,1.02 Investment - Derivative,1.02.06 Valuation - Repos,1_02_06_001,Repo - Cost ,YES,-,-,-,Asset,N,-,Repo,DomCcy,-,-,Broker,-,-
+1. Asset,1.02 Investment - Derivative,1.02.06 Valuation - Repos,1_02_06_002,Repo - Market Value Adjustment ,YES,-,-,-,Asset,N,-,Repo,DomCcy,-,-,Broker,-,-
+1. Asset,1.02 Investment - Derivative,1.02.06 Valuation - Repos,1_02_06_003,Repo - FX Adjustment,YES,-,-,-,Asset,N,-,Repo,DomCcy,-,-,Broker,-,-
+1. Asset,1.03 Investment - Forward FX,1.03.01 Valuation - Forward FX,1_03_01_001,FX Forward - Market Value,YES,-,-,-,Asset,N,-,FxForward ,DomCcy,-,-,Broker,-,-
+1. Asset,1.03 Investment - Forward FX,1.03.01 Valuation - Forward FX,1_03_01_002,FX Forward (Hedging) - Market Value,YES,-,-,-,Asset,Y,-,FxForward,DomCcy,-,-,-,-,Share Class
+1. Asset,1.04 Investment - Other,1.04.01 Valuation - Other,1_04_01_001,Allowance for Credit Loss (Contra Asset),YES,-,-,-,Asset,N,-,-,DomCcy,-,-,-,-,-
+1. Asset,1.04 Investment - Other,1.04.01 Valuation - Other,1_04_01_002,Market Value Adj for Credit Loss Allowance,YES,-,-,-,Asset,N,-,-,DomCcy,-,-,-,-,-
+1. Asset,1.05 Liquidity,1.05.01 Deposit,1_05_01_001,Term Deposit (Principal Amount),YES,-,-,-,Asset,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+1. Asset,1.05 Liquidity,1.05.01 Deposit,1_05_01_002,Call Deposit (Principal Amount) ,YES,-,-,-,Asset,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,Depository,-
+1. Asset,1.05 Liquidity,1.05.02 Cash,1_05_02_001,Cash At Sight,YES,-,-,-,Asset,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,Depository,-
+1. Asset,1.05 Liquidity,1.05.02 Cash,1_05_02_002,Externally Accounted Property Cash,YES,-,-,-,Asset,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,Depository,-
+1. Asset,1.05 Liquidity,1.05.02 Cash,1_05_02_003,Capital Reinvestment  ,YES,-,-,-,Asset,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,Depository,-
+1. Asset,1.05 Liquidity,1.05.02 Cash,1_05_02_004,Notional Cash ,YES,-,-,-,Asset,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,Depository,-
+1. Asset,1.05 Liquidity,1.05.02 Cash,1_05_02_005,Class Control ,YES,-,-,-,Asset,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,Depository,-
+1. Asset,1.05 Liquidity,1.05.02 Cash,1_05_02_006,Income Reserve Accounting ,YES,-,-,-,Asset,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,Depository,-
+1. Asset,1.05 Liquidity,1.05.02 Cash,1_05_02_007,Reinvestment To Capital ,YES,-,-,-,Asset,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+1. Asset,1.05 Liquidity,1.05.03 Margin Account,1_05_03_001,Initial Margin,YES,-,-,-,Asset,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,Broker,-,-
+1. Asset,1.05 Liquidity,1.05.03 Margin Account,1_05_03_002,Margin Call,YES,-,-,-,Asset,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,Broker,-,-
+1. Asset,1.06 Accrual,1.06.01 Interest Accrual,1_06_01_001,Accrued Interest Bond,YES,-,-,-,Asset,N,-,BOND; COMPLEX BOND; INFLATION LINK BOND; MBS,DomCcy,-,-,-,-,-
+1. Asset,1.06 Accrual,1.06.01 Interest Accrual,1_06_01_002,Accrued Interest Money Market,YES,-,-,-,Asset,N,-,-,DomCcy,-,-,-,-,-
+1. Asset,1.06 Accrual,1.06.01 Interest Accrual,1_06_01_003,Accrued interest on Derivative,YES,-,-,-,Asset,N,-,-,DomCcy,-,-,-,-,-
+1. Asset,1.06 Accrual,1.06.01 Interest Accrual,1_06_01_004,Accrued Interest on Term Deposit,YES,-,-,-,Asset,N,-,-,DomCcy,-,-,-,-,-
+1. Asset,1.06 Accrual,1.06.01 Interest Accrual,1_06_01_005,Accrued Interest on Call Deposit,YES,-,-,-,Asset,N,-,-,DomCcy,-,-,-,-,-
+1. Asset,1.06 Accrual,1.06.01 Interest Accrual,1_06_01_006,Accrued Interest on Bank Account,YES,-,-,-,Asset,N,-,-,DomCcy,-,-,-,-,-
+1. Asset,1.06 Accrual,1.06.01 Interest Accrual,1_06_01_007,Accrued Interest on Security Lending,YES,-,-,-,Asset,N,-,-,DomCcy,-,-,-,-,-
+1. Asset,1.07 Debtors,1.07.01 Outstanding Settlement - Income,1_07_01_001,Receivable Interest on Bond,YES,-,-,-,Asset,N,Split between Historical Value vs FX Adjustement,BOND; COMPLEX BOND; INFLATION LINK BOND; MBS,DomCcy,-,-,-,-,-
+1. Asset,1.07 Debtors,1.07.01 Outstanding Settlement - Income,1_07_01_002,Receivable Interest on Money Market,YES,-,-,-,Asset,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+1. Asset,1.07 Debtors,1.07.01 Outstanding Settlement - Income,1_07_01_003,Receivable Interest  on Derivative,YES,-,-,-,Asset,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+1. Asset,1.07 Debtors,1.07.01 Outstanding Settlement - Income,1_07_01_004,Receivable Interest  on Term Deposit,YES,-,-,-,Asset,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+1. Asset,1.07 Debtors,1.07.01 Outstanding Settlement - Income,1_07_01_005,Receivable Interest  on Bank Account,YES,-,-,-,Asset,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+1. Asset,1.07 Debtors,1.07.01 Outstanding Settlement - Income,1_07_01_006,Receivable Interest  on Security Lending,YES,-,-,-,Asset,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+1. Asset,1.07 Debtors,1.07.01 Outstanding Settlement - Income,1_07_01_007,Accrued Rebates,YES,-,-,-,Asset,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+1. Asset,1.07 Debtors,1.07.01 Outstanding Settlement - Income,1_07_01_008,Dividend Receivable,YES,-,-,-,Asset,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+1. Asset,1.07 Debtors,1.07.01 Outstanding Settlement - Income,1_07_01_009,Fund Distribution Received,YES,-,-,-,Asset,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+1. Asset,1.07 Debtors,1.07.01 Outstanding Settlement - Income,1_07_01_010,Other Income Receivable,YES,-,-,-,Asset,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+1. Asset,1.07 Debtors,1.07.02 Outstanding Settlement - Trade Receivable,1_07_02_001,Trade Receivable,YES,-,-,-,Asset,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+1. Asset,1.07 Debtors,1.07.02 Outstanding Settlement - Trade Receivable,1_07_02_002,Receivable on FX Forward,YES,-,-,-,Asset,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+1. Asset,1.07 Debtors,1.07.02 Outstanding Settlement - Trade Receivable,1_07_02_003,Receivable on FX Spot,YES,-,-,-,Asset,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+1. Asset,1.07 Debtors,1.07.03 Outstanding Settlement -  Subscription,1_07_03_001,Receivable on Subscription,YES,-,-,-,Asset,Y ,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,Share Class
+1. Asset,1.07 Debtors,1.07.04 Outstanding Settlement -  Capital Injection,1_07_04_001,Receivable for Cash Injection,YES,-,-,-,Asset,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+1. Asset,1.07 Debtors,1.07.05 Outstanding Settlement -  Recoverable tax,1_07_05_001,Tax Recoverable,YES,-,-,-,Asset,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+1. Asset,1.07 Debtors,1.07.05 Outstanding Settlement -  Recoverable tax,1_07_05_002,Prepaid Tax,YES,-,-,-,Asset,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+1. Asset,1.07 Debtors,1.07.05 Outstanding Settlement -  Recoverable tax,1_07_05_003,VAT Recoverable,YES,-,-,-,Asset,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+1. Asset,1.07 Debtors,1.07.05 Outstanding Settlement -  Recoverable tax,1_07_05_004,Corporation Tax Adjustment,YES,-,-,-,Asset,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+1. Asset,1.07 Debtors,1.07.05 Outstanding Settlement -  Recoverable tax,1_07_05_005,Offsettable Tax on Dividends,YES,-,-,-,Asset,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+1. Asset,1.07 Debtors,1.07.09 Other Debtors,1_07_09_001,Prepaid Expenses,YES,-,-,-,Asset,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+1. Asset,1.07 Debtors,1.07.09 Other Debtors,1_07_09_002,Receipts Receivable,YES,-,-,-,Asset,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+1. Asset,1.07 Debtors,1.07.09 Other Debtors,1_07_09_003,Receivable Class Constrol,YES,-,-,-,Asset,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+1. Asset,1.07 Debtors,1.07.09 Other Debtors,1_07_09_004,Externally Accounted Property BS Income,YES,-,-,-,Asset,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+1. Asset,1.07 Debtors,1.07.09 Other Debtors,1_07_09_005,Externally Accounted Property Debtors,YES,-,-,-,Asset,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+1. Asset,1.07 Debtors,1.07.09 Other Debtors,1_07_09_006,Externally Accounted Property Distributions,YES,-,-,-,Asset,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+1. Asset,1.07 Debtors,1.07.09 Other Debtors,1_07_09_007,Underwriting Commission,YES,-,-,-,Asset,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+1. Asset,1.07 Debtors,1.07.09 Other Debtors,1_07_09_008,Price Adjustments,YES,-,-,-,Asset,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+1. Asset,1.07 Debtors,1.07.09 Other Debtors,1_07_09_009,Allowance for Credit Loss  (Contra Asset),YES,-,-,-,Asset,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+1. Asset,1.07 Debtors,1.07.09 Other Debtors,1_07_09_998,Other Debtor,YES,-,-,-,Asset,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+1. Asset,1.07 Debtors,1.07.09 Other Debtors,1_07_09_999,Transitory Account,YES,-,-,-,Asset,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+2. Liabilities,2.01 Liquidity (Liabilities) ,2.01.01 Loan,2_01_01_001,Secured Loan (Principal),YES,-,-,-,Liabilities,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+2. Liabilities,2.01 Liquidity (Liabilities) ,2.01.01 Loan,2_01_01_002,Unsecured Loan (Principal) ,YES,-,-,-,Liabilities,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+2. Liabilities,2.02 Ceditors,2.02.01 Outstanding Settlement - Trade Payable,2_02_01_001,Payable on Trade,YES,-,-,-,Liabilities,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+2. Liabilities,2.02 Ceditors,2.02.01 Outstanding Settlement - Trade Payable,2_02_01_002,Cash Due to Broker/Counterparty ,YES,-,-,-,Liabilities,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+2. Liabilities,2.02 Ceditors,2.02.01 Outstanding Settlement - Trade Payable,2_02_01_003,Payable on FX Forward ,YES,-,-,-,Liabilities,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+2. Liabilities,2.02 Ceditors,2.02.01 Outstanding Settlement - Trade Payable,2_02_01_004,Payable on FX Spot,YES,-,-,-,Liabilities,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+2. Liabilities,2.02 Ceditors,2.02.01 Outstanding Settlement - Trade Payable,2_02_01_005,Trade Exp Payable,YES,-,-,-,Liabilities,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+2. Liabilities,2.02 Ceditors,2.02.02 Outstanding Settlement -  Redemption,2_02_02_001,Payable on Redemption,YES,-,-,-,Liabilities,Y,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,Share Class
+2. Liabilities,2.02 Ceditors,2.02.03 Outstanding Settlement -  Distribution,2_02_03_001,Payable on Distribution,YES,-,-,-,Liabilities,Y,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,Share Class
+2. Liabilities,2.02 Ceditors,2.02.04 Outstanding Settlement - Tax Payable,2_02_04_001,Capital Gains Tax,YES,-,-,-,Liabilities,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+2. Liabilities,2.02 Ceditors,2.02.04 Outstanding Settlement - Tax Payable,2_02_04_002,Corporation Tax,YES,-,-,-,Liabilities,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+2. Liabilities,2.02 Ceditors,2.02.04 Outstanding Settlement - Tax Payable,2_02_04_003,Tax Adjustments,YES,-,-,-,Liabilities,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+2. Liabilities,2.02 Ceditors,2.02.04 Outstanding Settlement - Tax Payable,2_02_04_004,Taxation Charge,YES,-,-,-,Liabilities,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+2. Liabilities,2.02 Ceditors,2.02.04 Outstanding Settlement - Tax Payable,2_02_04_005,VAT Payable,YES,-,-,-,Liabilities,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+2. Liabilities,2.02 Ceditors,2.02.04 Outstanding Settlement - Tax Payable,2_02_04_006,Property Land Taxes,YES,-,-,-,Liabilities,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+2. Liabilities,2.02 Ceditors,2.02.04 Outstanding Settlement - Tax Payable,2_02_04_007,Irrecoverable Tax on Dividend And  Income,YES,-,-,-,Liabilities,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+2. Liabilities,2.02 Ceditors,2.02.04 Outstanding Settlement - Tax Payable,2_02_04_008,Bond Tax,YES,-,-,-,Liabilities,N,Split between Historical Value vs FX Adjustement,BOND; COMPLEX BOND; INFLATION LINK BOND; MBS,DomCcy,-,-,-,-,-
+2. Liabilities,2.02 Ceditors,2.02.05 Outstanding Settlement - Fee Payable,2_02_05_001,Expense Payable,YES,-,-,-,Liabilities,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+2. Liabilities,2.02 Ceditors,2.02.05 Outstanding Settlement - Fee Payable,2_02_05_002,Management Fee Payable,YES,-,-,-,Liabilities,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+2. Liabilities,2.02 Ceditors,2.02.05 Outstanding Settlement - Fee Payable,2_02_05_003,Custody Fees Payable,YES,-,-,-,Liabilities,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+2. Liabilities,2.02 Ceditors,2.02.05 Outstanding Settlement - Fee Payable,2_02_05_004,Audit Fees Payable,YES,-,-,-,Liabilities,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+2. Liabilities,2.02 Ceditors,2.02.05 Outstanding Settlement - Fee Payable,2_02_05_005,Legal Fees Payable,YES,-,-,-,Liabilities,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+2. Liabilities,2.02 Ceditors,2.02.05 Outstanding Settlement - Fee Payable,2_02_05_006,Other Expenses Payable,YES,-,-,-,Liabilities,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+2. Liabilities,2.02 Ceditors,2.02.06 Outstanding Settlement - Interest Payable ,2_02_06_001,Interest Accrual on Security Borrowing,YES,-,-,-,Liabilities,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+2. Liabilities,2.02 Ceditors,2.02.06 Outstanding Settlement - Interest Payable ,2_02_06_002,Interest Accrual on Bank,YES,-,-,-,Liabilities,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+2. Liabilities,2.02 Ceditors,2.02.06 Outstanding Settlement - Interest Payable ,2_02_06_003,Interest Accural on Loan,YES,-,-,-,Liabilities,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+2. Liabilities,2.02 Ceditors,2.02.06 Outstanding Settlement - Interest Payable ,2_02_06_004,Interest Accrual on Secured Loan,YES,-,-,-,Liabilities,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+2. Liabilities,2.02 Ceditors,2.02.09 Other Creditors,2_02_09_001,Deemed Disposals,YES,-,-,-,Liabilities,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+2. Liabilities,2.02 Ceditors,2.02.09 Other Creditors,2_02_09_002,Deferred Income,YES,-,-,-,Liabilities,N,-,-,DomCcy,-,-,-,-,-
+2. Liabilities,2.02 Ceditors,2.02.09 Other Creditors,2_02_09_003,Disbursements Payable,YES,-,-,-,Liabilities,N,-,-,DomCcy,-,-,-,-,-
+2. Liabilities,2.02 Ceditors,2.02.09 Other Creditors,2_02_09_999,Other Creditors,YES,-,-,-,Liabilities,N,Split between Historical Value vs FX Adjustement,-,DomCcy,-,-,-,-,-
+2. Liabilities,2.03 Accrual - Fees & Expenses,2.03.01 Fee Accrual,2_03_01_001,Fee Accrual - Management Fee,YES,-,-,-,Liabilities,N,-,-,DomCcy,-,-,-,-,-
+2. Liabilities,2.03 Accrual - Fees & Expenses,2.03.01 Fee Accrual,2_03_01_002,Fee Accrual - Custody Fees,YES,-,-,-,Liabilities,N,-,-,DomCcy,-,-,-,-,-
+2. Liabilities,2.03 Accrual - Fees & Expenses,2.03.01 Fee Accrual,2_03_01_003,Fee Accrual - Audit Fees,YES,-,-,-,Liabilities,N,-,-,DomCcy,-,-,-,-,-
+2. Liabilities,2.03 Accrual - Fees & Expenses,2.03.01 Fee Accrual,2_03_01_004,Fee Accrual - Legal Fees,YES,-,-,-,Liabilities,N,-,-,DomCcy,-,-,-,-,-
+2. Liabilities,2.03 Accrual - Fees & Expenses,2.03.01 Fee Accrual,2_03_01_005,Fee Accrual - Other Expenses,YES,-,-,-,Liabilities,N,-,-,DomCcy,-,-,-,-,-
+2. Liabilities,2.03 Accrual - Fees & Expenses,2.03.02 Payable Interest Accrual,2_03_02_001,Interest Accrual on Security Borrowing,YES,-,-,-,Liabilities,N,-,-,DomCcy,-,-,-,-,-
+2. Liabilities,2.03 Accrual - Fees & Expenses,2.03.02 Payable Interest Accrual,2_03_02_002,Interest Accrual on Bank,YES,-,-,-,Liabilities,N,-,-,DomCcy,-,-,-,-,-
+2. Liabilities,2.03 Accrual - Fees & Expenses,2.03.02 Payable Interest Accrual,2_03_02_003,Interest Accural on Loan,YES,-,-,-,Liabilities,N,-,-,DomCcy,-,-,-,-,-
+2. Liabilities,2.03 Accrual - Fees & Expenses,2.03.02 Payable Interest Accrual,2_03_02_004,Interest Accrual on Secured Loan,YES,-,-,-,Liabilities,N,-,-,DomCcy,-,-,-,-,-
+3. Capital,3.01 Capital Movement,3.01.01 Capital - Movement,3_01_01_001,Subscription / Cash Received on Unit Dealing ,-,-,YES,Capital Nav,Capital,Y,-,-,-,-,-,-,-,Share Class
+3. Capital,3.01 Capital Movement,3.01.01 Capital - Movement,3_01_01_002,Redemption / Cash Paid on Unit Dealing ,-,-,YES,Capital Nav,Capital,Y,-,-,-,-,-,-,-,Share Class
+3. Capital,3.01 Capital Movement,3.01.01 Capital - Movement,3_01_01_003,Subscription in Kind / Security In,-,-,YES,Capital Nav,Capital,Y,-,-,-,-,-,-,-,Share Class
+3. Capital,3.01 Capital Movement,3.01.01 Capital - Movement,3_01_01_004,Redemption in Kind / Security Out,-,-,YES,Capital Nav,Capital,Y,-,-,-,-,-,-,-,Share Class
+3. Capital,3.01 Capital Movement,3.01.01 Capital - Movement,3_01_01_005,Price Adjustments/Delution Levy,-,-,YES,Capital Nav,Capital,Y,-,-,-,-,-,-,-,Share Class
+3. Capital,3.01 Capital Movement,3.01.02 Capital - Distribution,3_01_02_001,Capital Distributions,-,-,YES,Capital Nav,Capital,Y,-,-,-,-,-,-,-,Share Class
+3. Capital,3.01 Capital Movement,3.01.03 Capital - Reserve &  Previous Year Result,3_01_03_001,Previous Year Result Brought  Forward,-,-,YES,Capital Nav,Capital,Y,-,-,-,-,-,-,-,Share Class
+3. Capital,3.01 Capital Movement,3.01.03 Capital - Reserve &  Previous Year Result,3_01_03_002,Capital Reserve,-,-,YES,Capital Nav,Capital,Y,-,-,-,-,-,-,-,Share Class
+3. Capital,3.01 Capital Movement,3.01.04 Capital - Finance Cost,3_01_04_001,Long Term Liabilities,-,-,YES,Capital Nav,Capital,Y,-,-,-,-,-,-,-,Share Class
+3. Capital,3.01 Capital Movement,3.01.05 Captial - Adjusment ,3_05_01_001,Prices Adjusmtents,-,-,YES,Capital Nav,Capital,Y,-,-,-,-,-,-,-,Share Class
+3. Capital,3.01 Capital Movement,3.01.05 Captial - Adjusment ,3_05_01_002,Class Control,-,-,YES,Capital Nav,Capital,Y,-,-,-,-,-,-,-,Share Class
+3. Capital,3.01 Capital Movement,3.01.05 Captial - Adjusment ,3_05_01_003,Income Reserve Accounting - Transferred to Capital,-,-,YES,Capital Nav,Capital,Y,-,-,-,-,-,-,-,Share Class
+3. Capital,3.01 Capital Movement,3.01.05 Captial - Adjusment ,3_05_01_004,Equalisation on Unit Dealing - Transferred to Capatial,-,-,YES,Capital Nav,Capital,Y,-,-,-,-,-,-,-,Share Class
+3. Capital,3.02 Capital Other Adjustment,3.02.01  Distributable Captial,3_02_01_001,Distributable Capital > Distributions,-,-,YES,Capital Nav,Capital,Y,-,-,-,-,-,-,-,Share Class
+3. Capital,3.02 Capital Other Adjustment,3.02.01  Distributable Captial,3_02_01_002,Distributable Capital > Equalisation on Unit Dealing - Transferred to Capatial,-,-,YES,Capital Nav,Capital,Y,-,-,-,-,-,-,-,Share Class
+3. Capital,3.02 Capital Other Adjustment,3.02.01  Distributable Captial,3_02_01_003,Distributable Capital > Surrender Premiums,-,-,YES,Capital Nav,Capital,Y,-,-,-,-,-,-,-,Share Class
+3. Capital,3.02 Capital Other Adjustment,3.02.01  Distributable Captial,3_02_01_004,Distributable Capital > TTF Holding Accounting Entries,-,-,YES,Capital Nav,Capital,Y,-,-,-,-,-,-,-,Share Class
+3. Capital,3.02 Capital Other Adjustment,3.02.02 Capital - Allowance,3_02_02_001,Captial Allowance > Tax Adjustments,-,-,YES,Capital Nav,Capital,Y,-,-,-,-,-,-,-,Share Class
+3. Capital,3.02 Capital Other Adjustment,3.02.03 Capital - Loan Relationship,3_02_03_001,Capital Loan Relationship > Capital Derivatives Proceeds to Loan Relationship,-,-,YES,Capital Nav,Capital,Y,-,-,-,-,-,-,-,Share Class
+3. Capital,3.02 Capital Other Adjustment,3.02.03 Capital - Loan Relationship,3_02_03_002,Capital Loan Relationship > Derivative Income,-,-,YES,Capital Nav,Capital,Y,-,-,-,-,-,-,-,Share Class
+3. Capital,3.02 Capital Other Adjustment,3.02.03 Capital - Loan Relationship,3_02_03_003,Capital Loan Relationship > Distributions,-,-,YES,Capital Nav,Capital,Y,-,-,-,-,-,-,-,Share Class
+3. Capital,3.02 Capital Other Adjustment,3.02.03 Capital - Loan Relationship,3_02_03_004,Capital Loan Relationship > Equalisation on Unit Dealing,-,-,YES,Capital Nav,Capital,Y,-,-,-,-,-,-,-,Share Class
+3. Capital,3.02 Capital Other Adjustment,3.02.03 Capital - Loan Relationship,3_02_03_005,Capital Loan Relationship > Realised Gains/Losses,-,-,YES,Capital Nav,Capital,Y,-,-,-,-,-,-,-,Share Class
+3. Capital,3.02 Capital Other Adjustment,3.02.03 Capital - Loan Relationship,3_02_03_006,Capital Loan Relationship > Total Capital LR trf from Capital,-,-,YES,Capital Nav,Capital,Y,-,-,-,-,-,-,-,Share Class
+3. Capital,3.02 Capital Other Adjustment,3.02.03 Capital - Loan Relationship,3_02_03_007,Capital Loan Relationship > TTF Holding Accounting Entries,-,-,YES,Capital Nav,Capital,Y,-,-,-,-,-,-,-,Share Class
+3. Capital,3.02 Capital Other Adjustment,3.02.03 Capital - Loan Relationship,3_02_03_008,Capital Loan Relationship > Unrealised Gain / Loss on Investments,-,-,YES,Capital Nav,Capital,Y,-,-,-,-,-,-,-,Share Class
+3. Capital,3.02 Capital Other Adjustment,3.02.04 Capital RPI,3_02_04_001,Capital Loan Relationship > Distributions,-,-,YES,Capital Nav,Capital,Y,-,-,-,-,-,-,-,Share Class
+3. Capital,3.02 Capital Other Adjustment,3.02.04 Capital RPI,3_02_04_002,Capital Loan Relationship > Equalisation on Unit Dealing,-,-,YES,Capital Nav,Capital,Y,-,-,-,-,-,-,-,Share Class
+3. Capital,3.02 Capital Other Adjustment,3.02.04 Capital RPI,3_02_04_003,Capital Loan Relationship > Externally-Priced CIS – Capital RPI MV,-,-,YES,Capital Nav,Capital,Y,-,-,-,-,-,-,-,Share Class
+3. Capital,3.02 Capital Other Adjustment,3.02.04 Capital RPI,3_02_04_004,Capital Loan Relationship > TTF Holding Accounting Entries,-,-,YES,Capital Nav,Capital,Y,-,-,-,-,-,-,-,Share Class
+4. P/L on Investment ,4.01 Unrealised P&L on Investment - Non Derivative,4.01.01 Unrealised P&L - Equity,4_01_01_001,Unrealised Profits - Equity,-,YES,YES,Capital Nav,Income,N,-,EQUITY,-,-,-,-,-,-
+4. P/L on Investment ,4.01 Unrealised P&L on Investment - Non Derivative,4.01.01 Unrealised P&L - Equity,4_01_01_002,Unrealised FX Profits - Equity,-,YES,YES,Capital Nav,Income,N,-,EQUITY,-,-,-,-,-,-
+4. P/L on Investment ,4.01 Unrealised P&L on Investment - Non Derivative,4.01.01 Unrealised P&L - Equity,4_01_01_003,Unrealised Losses - Equity,-,YES,YES,Capital Nav,Income,N,-,EQUITY,-,-,-,-,-,-
+4. P/L on Investment ,4.01 Unrealised P&L on Investment - Non Derivative,4.01.01 Unrealised P&L - Equity,4_01_01_004,Unrealised FX Losses - Equity,-,YES,YES,Capital Nav,Income,N,-,EQUITY,-,-,-,-,-,-
+4. P/L on Investment ,4.01 Unrealised P&L on Investment - Non Derivative,4.01.02 Unrealised P&L - Mutual Fund,4_01_02_001,Unrealised Profits - Mutual Fund,-,YES,YES,Capital Nav,Income,N,-,FUND - TBC - DO NOT EXIST YET,-,-,-,-,-,-
+4. P/L on Investment ,4.01 Unrealised P&L on Investment - Non Derivative,4.01.02 Unrealised P&L - Mutual Fund,4_01_02_002,Unrealised FX Profits - Mutual Fund,-,YES,YES,Capital Nav,Income,N,-,FUND - TBC - DO NOT EXIST YET,-,-,-,-,-,-
+4. P/L on Investment ,4.01 Unrealised P&L on Investment - Non Derivative,4.01.02 Unrealised P&L - Mutual Fund,4_01_02_003,Unrealised Losses  - Mutual Fund,-,YES,YES,Capital Nav,Income,N,-,FUND - TBC - DO NOT EXIST YET,-,-,-,-,-,-
+4. P/L on Investment ,4.01 Unrealised P&L on Investment - Non Derivative,4.01.02 Unrealised P&L - Mutual Fund,4_01_02_004,Unrealised FX Losses  - Mutual Fund,-,YES,YES,Capital Nav,Income,N,-,FUND - TBC - DO NOT EXIST YET,-,-,-,-,-,-
+4. P/L on Investment ,4.01 Unrealised P&L on Investment - Non Derivative,4.01.03 Unrealised P&L - Bond,4_01_03_001,Unrealised Profits - Bond,-,YES,YES,Capital Nav,Income,N,-,BOND; COMPLEX BOND; INFLATION LINK BOND; MBS,-,-,-,-,-,-
+4. P/L on Investment ,4.01 Unrealised P&L on Investment - Non Derivative,4.01.03 Unrealised P&L - Bond,4_01_03_002,Unrealised FX Profits - Bond,-,YES,YES,Capital Nav,Income,N,-,BOND; COMPLEX BOND; INFLATION LINK BOND; MBS,-,-,-,-,-,-
+4. P/L on Investment ,4.01 Unrealised P&L on Investment - Non Derivative,4.01.03 Unrealised P&L - Bond,4_01_03_003,Unrealised Losses  - Bond,-,YES,YES,Capital Nav,Income,N,-,BOND; COMPLEX BOND; INFLATION LINK BOND; MBS,-,-,-,-,-,-
+4. P/L on Investment ,4.01 Unrealised P&L on Investment - Non Derivative,4.01.03 Unrealised P&L - Bond,4_01_03_004,Unrealised FX Losses  - Bond,-,YES,YES,Capital Nav,Income,N,-,BOND; COMPLEX BOND; INFLATION LINK BOND; MBS,-,-,-,-,-,-
+4. P/L on Investment ,4.01 Unrealised P&L on Investment - Non Derivative,4.01.04 Unrealised P&L - Money Market,4_01_04_001,Unrealised Pofits - Money Market,-,YES,YES,Capital Nav,Income,N,-,MM - TBC - DO NOT EXIST YET,-,-,-,-,-,-
+4. P/L on Investment ,4.01 Unrealised P&L on Investment - Non Derivative,4.01.04 Unrealised P&L - Money Market,4_01_04_002,Unrealised FX Profits - Money Market,-,YES,YES,Capital Nav,Income,N,-,MM - TBC - DO NOT EXIST YET,-,-,-,-,-,-
+4. P/L on Investment ,4.01 Unrealised P&L on Investment - Non Derivative,4.01.04 Unrealised P&L - Money Market,4_01_04_003,Unrealised Losses - Money Market,-,YES,YES,Capital Nav,Income,N,-,MM - TBC - DO NOT EXIST YET,-,-,-,-,-,-
+4. P/L on Investment ,4.01 Unrealised P&L on Investment - Non Derivative,4.01.04 Unrealised P&L - Money Market,4_01_04_004,Unrealised FX Losses - Money Market,-,YES,YES,Capital Nav,Income,N,-,MM - TBC - DO NOT EXIST YET,-,-,-,-,-,-
+4. P/L on Investment ,4.02 Unrealised P&L on Investment - Derivative,4.02.01 Unrealised P&L - ETD Future,4_02_01_001,Unrealised Pofits -  ETD Future,-,YES,YES,Capital Nav,Income,N,-,FUTURE,-,-,-,-,-,-
+4. P/L on Investment ,4.02 Unrealised P&L on Investment - Derivative,4.02.01 Unrealised P&L - ETD Future,4_02_01_002,Unrealised FX Profits -  ETD Future,-,YES,YES,Capital Nav,Income,N,-,FUTURE,-,-,-,-,-,-
+4. P/L on Investment ,4.02 Unrealised P&L on Investment - Derivative,4.02.01 Unrealised P&L - ETD Future,4_02_01_003,Unrealised Losses  -  ETD Future,-,YES,YES,Capital Nav,Income,N,-,FUTURE,-,-,-,-,-,-
+4. P/L on Investment ,4.02 Unrealised P&L on Investment - Derivative,4.02.01 Unrealised P&L - ETD Future,4_02_01_004,Unrealised FX Losses - ETD Future,-,YES,YES,Capital Nav,Income,N,-,FUTURE,-,-,-,-,-,-
+4. P/L on Investment ,4.02 Unrealised P&L on Investment - Derivative,4.02.02 Unrealised P&L - ETD Option,4_02_02_001,Unrealised Pofits -  ETD Option,-,YES,YES,Capital Nav,Income,N,-,EXCHANGE TRADED OPTION,-,-,-,-,-,-
+4. P/L on Investment ,4.02 Unrealised P&L on Investment - Derivative,4.02.02 Unrealised P&L - ETD Option,4_02_02_002,Unrealised FX Profits -  ETD Option,-,YES,YES,Capital Nav,Income,N,-,EXCHANGE TRADED OPTION,-,-,-,-,-,-
+4. P/L on Investment ,4.02 Unrealised P&L on Investment - Derivative,4.02.02 Unrealised P&L - ETD Option,4_02_02_003,Unrealised Losses -  ETD Option,-,YES,YES,Capital Nav,Income,N,-,EXCHANGE TRADED OPTION,-,-,-,-,-,-
+4. P/L on Investment ,4.02 Unrealised P&L on Investment - Derivative,4.02.02 Unrealised P&L - ETD Option,4_02_02_004,Unrealised FX Losses - ETD Option,-,YES,YES,Capital Nav,Income,N,-,EXCHANGE TRADED OPTION,-,-,-,-,-,-
+4. P/L on Investment ,4.02 Unrealised P&L on Investment - Derivative,4.02.03 Unrealised P&L - OTC Option,4_02_03_001,Unrealised Pofits -  OTC Option,-,YES,YES,Capital Nav,Income,N,-,EQUITY_OPITON,-,-,-,-,-,-
+4. P/L on Investment ,4.02 Unrealised P&L on Investment - Derivative,4.02.03 Unrealised P&L - OTC Option,4_02_03_002,Unrealised FX Profits -  OTC Option,-,YES,YES,Capital Nav,Income,N,-,EQUITY_OPITON,-,-,-,-,-,-
+4. P/L on Investment ,4.02 Unrealised P&L on Investment - Derivative,4.02.03 Unrealised P&L - OTC Option,4_02_03_003,Unrealised Losses -  OTC Option,-,YES,YES,Capital Nav,Income,N,-,EQUITY_OPITON,-,-,-,-,-,-
+4. P/L on Investment ,4.02 Unrealised P&L on Investment - Derivative,4.02.03 Unrealised P&L - OTC Option,4_02_03_004,Unrealised FX Losses - OTC Option,-,YES,YES,Capital Nav,Income,N,-,EQUITY_OPITON,-,-,-,-,-,-
+4. P/L on Investment ,4.02 Unrealised P&L on Investment - Derivative,4.02.04 Unrealised P&L - SWAP,4_02_04_001,Unrealised Pofits -  SWAP,-,YES,YES,Capital Nav,Income,N,-,"EquitySwap; InterestRateSwap; TotalReturnSwap, InflationSwap, CreditDefaultSwap, FxSwap, ForwardRateAgreement, CdsIndex",-,-,-,-,-,-
+4. P/L on Investment ,4.02 Unrealised P&L on Investment - Derivative,4.02.04 Unrealised P&L - SWAP,4_02_04_002,Unrealised FX Profits -  SWAP,-,YES,YES,Capital Nav,Income,N,-,"EquitySwap; InterestRateSwap; TotalReturnSwap, InflationSwap, CreditDefaultSwap, FxSwap, ForwardRateAgreement, CdsIndex",-,-,-,-,-,-
+4. P/L on Investment ,4.02 Unrealised P&L on Investment - Derivative,4.02.04 Unrealised P&L - SWAP,4_02_04_003,Unrealised Losses -  SWAP,-,YES,YES,Capital Nav,Income,N,-,"EquitySwap; InterestRateSwap; TotalReturnSwap, InflationSwap, CreditDefaultSwap, FxSwap, ForwardRateAgreement, CdsIndex",-,-,-,-,-,-
+4. P/L on Investment ,4.02 Unrealised P&L on Investment - Derivative,4.02.04 Unrealised P&L - SWAP,4_02_04_004,Unrealised FX Losses - SWAP,-,YES,YES,Capital Nav,Income,N,-,"EquitySwap; InterestRateSwap; TotalReturnSwap, InflationSwap, CreditDefaultSwap, FxSwap, ForwardRateAgreement, CdsIndex",-,-,-,-,-,-
+4. P/L on Investment ,4.02 Unrealised P&L on Investment - Derivative,4.02.05 Unrealised P&L - Repos,4_02_05_001,Unrealised Pofits -  Repos,-,YES,YES,Capital Nav,Income,N,-,Repo,-,-,-,-,-,-
+4. P/L on Investment ,4.02 Unrealised P&L on Investment - Derivative,4.02.05 Unrealised P&L - Repos,4_02_05_002,Unrealised FX Profits -  Repos,-,YES,YES,Capital Nav,Income,N,-,Repo,-,-,-,-,-,-
+4. P/L on Investment ,4.02 Unrealised P&L on Investment - Derivative,4.02.05 Unrealised P&L - Repos,4_02_05_003,Unrealised Losses -  Repos,-,YES,YES,Capital Nav,Income,N,-,Repo,-,-,-,-,-,-
+4. P/L on Investment ,4.02 Unrealised P&L on Investment - Derivative,4.02.05 Unrealised P&L - Repos,4_02_05_004,Unrealised FX Losses - Repos,-,YES,YES,Capital Nav,Income,N,-,Repo,-,-,-,-,-,-
+4. P/L on Investment ,4.03 Unrealised P&L on Investment - FX Forward,4.03.01 Unrealised P&L - Forward FX,4_03_01_001,Unrealised Profits -  FX Forward,-,YES,YES,Capital Nav,Income,N,-,FxForward,-,-,-,-,-,-
+4. P/L on Investment ,4.03 Unrealised P&L on Investment - FX Forward,4.03.01 Unrealised P&L - Forward FX,4_03_01_002,Unrealised Losses -  FX Froward,-,YES,YES,Capital Nav,Income,N,-,FxForward,-,-,-,-,-,-
+4. P/L on Investment ,4.03 Unrealised P&L on Investment - FX Forward,4.03.02 Unrealised P&L - Forward FX (Hedging) ,4_03_02_001,Unrealised Profits -  FX Forward (Hedging) ,-,YES,YES,Capital Nav,Income,Y,-,FxForward,-,-,-,-,-,Share Class
+4. P/L on Investment ,4.03 Unrealised P&L on Investment - FX Forward,4.03.02 Unrealised P&L - Forward FX (Hedging) ,4_03_02_002,Unrealised Profits -  FX Forward (Hedging) ,-,YES,YES,Capital Nav,Income,Y,-,FxForward,-,-,-,-,-,Share Class
+4. P/L on Investment ,4.04 Unrealised P&L on Investment - Liquidity,4.04.01 Unrealised FX P&L - Cash & Margin,4_04_01_001, Unrealised FX Profits - Cash & Margin,-,YES,YES,Capital Nav,Income,N,-,-,-,-,-,-,-,-
+4. P/L on Investment ,4.04 Unrealised P&L on Investment - Liquidity,4.04.01 Unrealised FX P&L - Cash & Margin,4_04_01_002, Unrealised FX Losses - Cash & Margin,-,YES,YES,Capital Nav,Income,N,-,-,-,-,-,-,-,-
+4. P/L on Investment ,4.04 Unrealised P&L on Investment - Liquidity,4.04.02 Unrealised FX P&L - Outstanding Settlement,4_04_02_001,Unrealised FX Profits - Outstanding Settlement,-,YES,YES,Capital Nav,Income,N,-,-,-,-,-,-,-,-
+4. P/L on Investment ,4.04 Unrealised P&L on Investment - Liquidity,4.04.02 Unrealised FX P&L - Outstanding Settlement,4_04_02_002,Unrealised FX Losses - Outstanding Settlement,-,YES,YES,Capital Nav,Income,N,-,-,-,-,-,-,-,-
+4. P/L on Investment ,4.05 Unrealised P&L on Investment - Other ,4.05.01 Unrealised P&L - Other,4_05_01_001,Unrealised Profits - Other Investment,-,YES,YES,Capital Nav,Income,N,-,-,-,-,-,-,-,-
+4. P/L on Investment ,4.06 Realised P&L on Investment - Non Derivative,4.06.01 Realised P&L - Equity,4_06_01_001,Realised Profits - Equity,-,YES,YES,Capital Nav,Income,N,-,EQUITY,-,-,-,-,-,-
+4. P/L on Investment ,4.06 Realised P&L on Investment - Non Derivative,4.06.01 Realised P&L - Equity,4_06_01_002,Realised FX Profits - Equity,-,YES,YES,Capital Nav,Income,N,-,EQUITY,-,-,-,-,-,-
+4. P/L on Investment ,4.06 Realised P&L on Investment - Non Derivative,4.06.01 Realised P&L - Equity,4_06_01_003,Realised Losses - Equity,-,YES,YES,Capital Nav,Income,N,-,EQUITY,-,-,-,-,-,-
+4. P/L on Investment ,4.06 Realised P&L on Investment - Non Derivative,4.06.01 Realised P&L - Equity,4_06_01_004,Realised FX Losses - Equity,-,YES,YES,Capital Nav,Income,N,-,EQUITY,-,-,-,-,-,-
+4. P/L on Investment ,4.06 Realised P&L on Investment - Non Derivative,4.06.02 Realised P&L - Mutual Fund,4_06_02_001,Realised Profits - Mutual Fund,-,YES,YES,Capital Nav,Income,N,-,FUND - TBC - DO NOT EXIST YET,-,-,-,-,-,-
+4. P/L on Investment ,4.06 Realised P&L on Investment - Non Derivative,4.06.02 Realised P&L - Mutual Fund,4_06_02_002,Realised FX Profits - Mutual Fund,-,YES,YES,Capital Nav,Income,N,-,FUND - TBC - DO NOT EXIST YET,-,-,-,-,-,-
+4. P/L on Investment ,4.06 Realised P&L on Investment - Non Derivative,4.06.02 Realised P&L - Mutual Fund,4_06_02_003,Realised Losses  - Mutual Fund,-,YES,YES,Capital Nav,Income,N,-,FUND - TBC - DO NOT EXIST YET,-,-,-,-,-,-
+4. P/L on Investment ,4.06 Realised P&L on Investment - Non Derivative,4.06.02 Realised P&L - Mutual Fund,4_06_02_004,Realised FX Losses  - Mutual Fund,-,YES,YES,Capital Nav,Income,N,-,FUND - TBC - DO NOT EXIST YET,-,-,-,-,-,-
+4. P/L on Investment ,4.06 Realised P&L on Investment - Non Derivative,4.06.03 Realised P&L - Bond,4_06_03_001,Realised Profits - Bond,-,YES,YES,Capital Nav,Income,N,-,BOND; COMPLEX BOND; INFLATION LINK BOND; MBS,-,-,-,-,-,-
+4. P/L on Investment ,4.06 Realised P&L on Investment - Non Derivative,4.06.03 Realised P&L - Bond,4_06_03_002,Realised FX Profits - Bond,-,YES,YES,Capital Nav,Income,N,-,BOND; COMPLEX BOND; INFLATION LINK BOND; MBS,-,-,-,-,-,-
+4. P/L on Investment ,4.06 Realised P&L on Investment - Non Derivative,4.06.03 Realised P&L - Bond,4_06_03_003,Realised Losses - Bond,-,YES,YES,Capital Nav,Income,N,-,BOND; COMPLEX BOND; INFLATION LINK BOND; MBS,-,-,-,-,-,-
+4. P/L on Investment ,4.06 Realised P&L on Investment - Non Derivative,4.06.03 Realised P&L - Bond,4_06_03_004,Realised FX Losses - Bond,-,YES,YES,Capital Nav,Income,N,-,BOND; COMPLEX BOND; INFLATION LINK BOND; MBS,-,-,-,-,-,-
+4. P/L on Investment ,4.06 Realised P&L on Investment - Non Derivative,4.06.04 Realised P&L - Money Market,4_06_04_001,Realised Pofits - Money Market,-,YES,YES,Capital Nav,Income,N,-,MM - TBC - DO NOT EXIST YET,-,-,-,-,-,-
+4. P/L on Investment ,4.06 Realised P&L on Investment - Non Derivative,4.06.04 Realised P&L - Money Market,4_06_04_002,Realised FX Profits - Money Market,-,YES,YES,Capital Nav,Income,N,-,MM - TBC - DO NOT EXIST YET,-,-,-,-,-,-
+4. P/L on Investment ,4.06 Realised P&L on Investment - Non Derivative,4.06.04 Realised P&L - Money Market,4_06_04_003,Realised Losses - Money Market,-,YES,YES,Capital Nav,Income,N,-,MM - TBC - DO NOT EXIST YET,-,-,-,-,-,-
+4. P/L on Investment ,4.06 Realised P&L on Investment - Non Derivative,4.06.04 Realised P&L - Money Market,4_06_04_004,Realised FX Losses - Money Market,-,YES,YES,Capital Nav,Income,N,-,MM - TBC - DO NOT EXIST YET,-,-,-,-,-,-
+4. P/L on Investment ,4.07 Realised P&L on Investment - Derivative,4.07.01 Realised P&L - ETD Future,4_07_01_001,Realised Pofits -  ETD Future,-,YES,YES,Capital Nav,Income,N,-,FUTURE,-,-,-,-,-,-
+4. P/L on Investment ,4.07 Realised P&L on Investment - Derivative,4.07.01 Realised P&L - ETD Future,4_07_01_002,Realised FX Profits -  ETD Future,-,YES,YES,Capital Nav,Income,N,-,FUTURE,-,-,-,-,-,-
+4. P/L on Investment ,4.07 Realised P&L on Investment - Derivative,4.07.01 Realised P&L - ETD Future,4_07_01_003,Realised Losses  -  ETD Future,-,YES,YES,Capital Nav,Income,N,-,FUTURE,-,-,-,-,-,-
+4. P/L on Investment ,4.07 Realised P&L on Investment - Derivative,4.07.01 Realised P&L - ETD Future,4_07_01_004,Realised FX Losses - ETD Future,-,YES,YES,Capital Nav,Income,N,-,FUTURE,-,-,-,-,-,-
+4. P/L on Investment ,4.07 Realised P&L on Investment - Derivative,4.07.02 Realised P&L - ETD Option,4_07_02_001,Realised Pofits -  ETD Option,-,YES,YES,Capital Nav,Income,N,-,EXCHANGE TRADED OPTION,-,-,-,-,-,-
+4. P/L on Investment ,4.07 Realised P&L on Investment - Derivative,4.07.02 Realised P&L - ETD Option,4_07_02_002,Realised FX Profits -  ETD Option,-,YES,YES,Capital Nav,Income,N,-,EXCHANGE TRADED OPTION,-,-,-,-,-,-
+4. P/L on Investment ,4.07 Realised P&L on Investment - Derivative,4.07.02 Realised P&L - ETD Option,4_07_02_003,Realised Losses -  ETD Option,-,YES,YES,Capital Nav,Income,N,-,EXCHANGE TRADED OPTION,-,-,-,-,-,-
+4. P/L on Investment ,4.07 Realised P&L on Investment - Derivative,4.07.02 Realised P&L - ETD Option,4_07_02_004,Realised FX Losses - ETD Option,-,YES,YES,Capital Nav,Income,N,-,EXCHANGE TRADED OPTION,-,-,-,-,-,-
+4. P/L on Investment ,4.07 Realised P&L on Investment - Derivative,4.07.03 Realised P&L - OTC Option,4_07_03_001,Realised Pofits -  OTC Option,-,YES,YES,Capital Nav,Income,N,-,EQUITY_OPITON,-,-,-,-,-,-
+4. P/L on Investment ,4.07 Realised P&L on Investment - Derivative,4.07.03 Realised P&L - OTC Option,4_07_03_002,Realised FX Profits -  OTC Option,-,YES,YES,Capital Nav,Income,N,-,EQUITY_OPITON,-,-,-,-,-,-
+4. P/L on Investment ,4.07 Realised P&L on Investment - Derivative,4.07.03 Realised P&L - OTC Option,4_07_03_003,Realised Losses -  OTC Option,-,YES,YES,Capital Nav,Income,N,-,EQUITY_OPITON,-,-,-,-,-,-
+4. P/L on Investment ,4.07 Realised P&L on Investment - Derivative,4.07.03 Realised P&L - OTC Option,4_07_03_004,Realised FX Losses - OTC Option,-,YES,YES,Capital Nav,Income,N,-,EQUITY_OPITON,-,-,-,-,-,-
+4. P/L on Investment ,4.07 Realised P&L on Investment - Derivative,4.07.04 Realised P&L - CFD,4_07_04_001,Realised Profit - CFD,-,YES,YES,Capital Nav,Income,N,-,ContractForDifference,-,-,-,-,-,-
+4. P/L on Investment ,4.07 Realised P&L on Investment - Derivative,4.07.04 Realised P&L - CFD,4_07_04_002,Realised FX Profit- CFD,-,YES,YES,Capital Nav,Income,N,-,ContractForDifference,-,-,-,-,-,-
+4. P/L on Investment ,4.07 Realised P&L on Investment - Derivative,4.07.04 Realised P&L - CFD,4_07_04_003,RealisedLosses - CFD,-,YES,YES,Capital Nav,Income,N,-,ContractForDifference,-,-,-,-,-,-
+4. P/L on Investment ,4.07 Realised P&L on Investment - Derivative,4.07.04 Realised P&L - CFD,4_07_04_004,Realised FX Losses - CFD,-,YES,YES,Capital Nav,Income,N,-,ContractForDifference,-,-,-,-,-,-
+4. P/L on Investment ,4.07 Realised P&L on Investment - Derivative,4.07.05 Realised P&L - SWAP,4_07_05_001,Realised Pofits -  SWAP,-,YES,YES,Capital Nav,Income,N,-,"EquitySwap; InterestRateSwap; TotalReturnSwap, InflationSwap, CreditDefaultSwap, FxSwap, ForwardRateAgreement, CdsIndex",-,-,-,-,-,-
+4. P/L on Investment ,4.07 Realised P&L on Investment - Derivative,4.07.05 Realised P&L - SWAP,4_07_05_002,Realised FX Profits -  SWAP,-,YES,YES,Capital Nav,Income,N,-,"EquitySwap; InterestRateSwap; TotalReturnSwap, InflationSwap, CreditDefaultSwap, FxSwap, ForwardRateAgreement, CdsIndex",-,-,-,-,-,-
+4. P/L on Investment ,4.07 Realised P&L on Investment - Derivative,4.07.05 Realised P&L - SWAP,4_07_05_003,Realised Losses -  SWAP,-,YES,YES,Capital Nav,Income,N,-,"EquitySwap; InterestRateSwap; TotalReturnSwap, InflationSwap, CreditDefaultSwap, FxSwap, ForwardRateAgreement, CdsIndex",-,-,-,-,-,-
+4. P/L on Investment ,4.07 Realised P&L on Investment - Derivative,4.07.05 Realised P&L - SWAP,4_07_05_004,Realised FX Losses - SWAP,-,YES,YES,Capital Nav,Income,N,-,"EquitySwap; InterestRateSwap; TotalReturnSwap, InflationSwap, CreditDefaultSwap, FxSwap, ForwardRateAgreement, CdsIndex",-,-,-,-,-,-
+4. P/L on Investment ,4.07 Realised P&L on Investment - Derivative,4.07.06 Realised P&L - Repos,4_07_06_001,Realised Pofits -  Repos,-,YES,YES,Capital Nav,Income,N,-,Repo,-,-,-,-,-,-
+4. P/L on Investment ,4.07 Realised P&L on Investment - Derivative,4.07.06 Realised P&L - Repos,4_07_06_002,Realised FX Profits -  Repos,-,YES,YES,Capital Nav,Income,N,-,Repo,-,-,-,-,-,-
+4. P/L on Investment ,4.07 Realised P&L on Investment - Derivative,4.07.06 Realised P&L - Repos,4_07_06_003,Realised Losses -  Repos,-,YES,YES,Capital Nav,Income,N,-,Repo,-,-,-,-,-,-
+4. P/L on Investment ,4.07 Realised P&L on Investment - Derivative,4.07.06 Realised P&L - Repos,4_07_06_004,Realised FX Losses - Repos,-,YES,YES,Capital Nav,Income,N,-,Repo,-,-,-,-,-,-
+4. P/L on Investment ,4.08 Realised P&L on Investment - FX Forward,4.08.01 Realised P&L - Forward FX,4_08_01_001,Realised Profit - Forward FX,-,YES,YES,Capital Nav,Income,N,-,FxForward,-,-,-,-,-,-
+4. P/L on Investment ,4.08 Realised P&L on Investment - FX Forward,4.08.01 Realised P&L - Forward FX,4_08_01_002,RealisedLosses - Forward FX,-,YES,YES,Capital Nav,Income,N,-,FxForward,-,-,-,-,-,-
+4. P/L on Investment ,4.08 Realised P&L on Investment - FX Forward,4.08.02 Realised P&L - Forward FX (Hedging) ,4_08_02_001,Realised Profit - Forward FX (Hedging) ,-,YES,YES,Capital Nav,Income,Y,-,FxForward,-,-,-,-,-,Share Class
+4. P/L on Investment ,4.08 Realised P&L on Investment - FX Forward,4.08.02 Realised P&L - Forward FX (Hedging) ,4_08_02_002,Realised Losses - Forward FX (Hedging) ,-,YES,YES,Capital Nav,Income,Y,-,FxForward,-,-,-,-,-,Share Class
+4. P/L on Investment ,4.09 Realised P&L on Investment - Liquidity,4.09.01 Realised FX P&L - Outstanding Settlement,4_09_01_001,Realised FX Profits - Outstanding Settlement,-,YES,YES,Capital Nav,Income,N,-,-,-,-,-,-,-,-
+4. P/L on Investment ,4.09 Realised P&L on Investment - Liquidity,4.09.01 Realised FX P&L - Outstanding Settlement,4_09_01_002,Realised FX Losses - Outstanding Settlement,-,YES,YES,Capital Nav,Income,N,-,-,-,-,-,-,-,-
+4. P/L on Investment ,4.10 Realised P&L on Investment - Other,4.10.01 Realised P&L - Other Investment,4_10_01_001,Realised P&L Other,-,YES,YES,Capital Nav,Income,N,-,-,-,-,-,-,-,-
+4. P/L on Investment ,4.11 P&L - Other,4.11.01 P&L on Investment - Other,4_11_01_001,Bond Amortisation,-,YES,YES,Capital Nav,Income,N,-,BOND; COMPLEX BOND; INFLATION LINK BOND; MBS,-,-,-,-,-,-
+4. P/L on Investment ,4.11 P&L - Other,4.11.01 P&L on Investment - Other,4_11_01_002,Fair Value Adjustments,-,YES,YES,Capital Nav,Income,N,-,-,-,-,-,-,-,-
+4. P/L on Investment ,4.11 P&L - Other,4.11.01 P&L on Investment - Other,4_11_01_003, Offshore Non Rep Gain/Loss,-,YES,YES,Capital Nav,Income,N,-,-,-,-,-,-,-,-
+4. P/L on Investment ,4.11 P&L - Other,4.11.01 P&L on Investment - Other,4_11_01_004,Total LR transferred to Capital LR,-,YES,YES,Capital Nav,Income,N,-,-,-,-,-,-,-,-
+4. P/L on Investment ,4.11 P&L - Other,4.11.01 P&L on Investment - Other,4_11_01_005,Total Offshore Non Rep Gain trf to Capital LR,-,YES,YES,Capital Nav,Income,N,-,-,-,-,-,-,-,-
+5. Income & Expenses,5.01  Income Equalisation/Distribution,5.01.01 Income Equalistion,5_01_01_001,Income Equalisation on Subscription,-,YES,YES,Income NAV,Income,Y,-,-,-,-,-,-,-,Share Class
+5. Income & Expenses,5.01  Income Equalisation/Distribution,5.01.01 Income Equalistion,5_01_01_002,Income Equalistion on Redemption,-,YES,YES,Income NAV,Income,Y,-,-,-,-,-,-,-,Share Class
+5. Income & Expenses,5.01  Income Equalisation/Distribution,5.01.02 Income Distribution,5_01_02_001,Income Distirution,-,YES,YES,Income NAV,Income,Y,-,-,-,-,-,-,-,Share Class
+5. Income & Expenses,5.01  Income Equalisation/Distribution,5.01.02 Income Distribution,5_01_02_002,Interim Distribution,-,YES,YES,Income NAV,Income,Y,-,-,-,-,-,-,-,Share Class
+5. Income & Expenses,5.01  Income Equalisation/Distribution,5.01.02 Income Distribution,5_01_02_003,Income transferred to capital ,-,YES,YES,Income NAV,Income,Y,-,-,-,-,-,-,-,Share Class
+5. Income & Expenses,5.01  Income Equalisation/Distribution,5.01.03 Other Income Adjsument,5_01_03_001,Capitalised Fees and Expenses,-,YES,YES,Income NAV,Income,Y,-,-,-,-,-,-,-,Share Class
+5. Income & Expenses,5.01  Income Equalisation/Distribution,5.01.03 Other Income Adjsument,5_01_03_002,Income Reserve Accounting ,-,YES,YES,Income NAV,Income,Y,-,-,-,-,-,-,-,Share Class
+5. Income & Expenses,5.02 Income & Dividend On Invesment,5.02.01 Dividend,5_02_01_001,Dividend Received (Frank),-,YES,YES,Income NAV,Income,N,-,-,-,-,-,-,-,-
+5. Income & Expenses,5.02 Income & Dividend On Invesment,5.02.01 Dividend,5_02_01_002,Dividend Received (Unfranked),-,YES,YES,Income NAV,Income,N,-,-,-,-,-,-,-,-
+5. Income & Expenses,5.02 Income & Dividend On Invesment,5.02.01 Dividend,5_02_01_003,Reportable Income Dividends,-,YES,YES,Income NAV,Income,N,-,-,-,-,-,-,-,-
+5. Income & Expenses,5.02 Income & Dividend On Invesment,5.02.02 Interest,5_02_02_001,Accrued Interest Bond,-,YES,YES,Income NAV,Income,N,-,BOND; COMPLEX BOND; INFLATION LINK BOND; MBS,-,-,-,-,-,-
+5. Income & Expenses,5.02 Income & Dividend On Invesment,5.02.02 Interest,5_02_02_002,Interest Money Market,-,YES,YES,Income NAV,Income,N,-,-,-,-,-,-,-,-
+5. Income & Expenses,5.02 Income & Dividend On Invesment,5.02.02 Interest,5_02_02_003,interest on Derivative,-,YES,YES,Income NAV,Income,N,-,-,-,-,-,-,-,-
+5. Income & Expenses,5.02 Income & Dividend On Invesment,5.02.02 Interest,5_02_02_004,Interest on Term Deposit,-,YES,YES,Income NAV,Income,N,-,-,-,-,-,-,-,-
+5. Income & Expenses,5.02 Income & Dividend On Invesment,5.02.02 Interest,5_02_02_005,Interest on Call Deposit,-,YES,YES,Income NAV,Income,N,-,-,-,-,-,-,-,-
+5. Income & Expenses,5.02 Income & Dividend On Invesment,5.02.02 Interest,5_02_02_006,Interest on Security Lending,-,YES,YES,Income NAV,Income,N,-,-,-,-,-,-,-,-
+5. Income & Expenses,5.03 Other Income,5.03.01 Other Income,5_03_01_001,Unrealised FX Profits - Outstanding Income Settlement,-,YES,YES,Income NAV,Income,N,-,-,-,-,-,-,-,-
+5. Income & Expenses,5.03 Other Income,5.03.01 Other Income,5_03_01_002,Reportable Income Dividends,-,YES,YES,Income NAV,Income,N,-,-,-,-,-,-,-,-
+5. Income & Expenses,5.03 Other Income,5.03.01 Other Income,5_03_01_003,Interest on Bank Account,-,YES,YES,Income NAV,Income,N,-,-,-,-,-,-,-,-
+5. Income & Expenses,5.03 Other Income,5.03.01 Other Income,5_03_01_004,Property Income,-,YES,YES,Income NAV,Income,N,-,-,-,-,-,-,-,-
+5. Income & Expenses,5.03 Other Income,5.03.01 Other Income,5_03_01_005,Underwriting Commission,-,YES,YES,Income NAV,Income,N,-,-,-,-,-,-,-,-
+5. Income & Expenses,5.03 Other Income,5.03.01 Other Income,5_03_01_006,Accrued Rebates,-,YES,YES,Income NAV,Income,N,-,-,-,-,-,-,-,-
+5. Income & Expenses,5.03 Other Income,5.03.01 Other Income,5_03_01_007,Income Amorisation,-,YES,YES,Income NAV,Income,N,-,-,-,-,-,-,-,-
+5. Income & Expenses,5.03 Other Income,5.03.01 Other Income,5_03_01_008,Capital Allowance,-,YES,YES,Income NAV,Income,N,-,-,-,-,-,-,-,-
+5. Income & Expenses,5.03 Other Income,5.03.01 Other Income,5_03_01_009,Class Control,-,YES,YES,Income NAV,Income,N,-,-,-,-,-,-,-,-
+5. Income & Expenses,5.03 Other Income,5.03.01 Other Income,5_03_01_010,Externally-Priced CIS – Income,-,YES,YES,Income NAV,Income,N,-,-,-,-,-,-,-,-
+5. Income & Expenses,5.03 Other Income,5.03.01 Other Income,5_03_01_011,Income Adjustment - Class,-,YES,YES,Income NAV,Income,N,-,-,-,-,-,-,-,-
+5. Income & Expenses,5.03 Other Income,5.03.01 Other Income,5_03_01_012,Surrender Premiums,-,YES,YES,Income NAV,Income,N,-,-,-,-,-,-,-,-
+5. Income & Expenses,5.03 Other Income,5.03.01 Other Income,5_03_01_013,TTF Holding Accounting Entries,-,YES,YES,Income NAV,Income,N,-,-,-,-,-,-,-,-
+5. Income & Expenses,5.03 Other Income,5.03.01 Other Income,5_03_01_014,Underwriting Commission,-,YES,YES,Income NAV,Income,N,-,-,-,-,-,-,-,-
+5. Income & Expenses,5.03 Other Income,5.03.01 Other Income,5_03_01_015,Unfranked Income / Fixed Interest,-,YES,YES,Income NAV,Income,N,-,-,-,-,-,-,-,-
+5. Income & Expenses,5.04 Fees & Expenses,5.04.01 Fees,5_04_01_001,Management Fee,-,YES,YES,Income NAV,Expense,Y,-,-,-,-,-,-,-,Share Class
+5. Income & Expenses,5.04 Fees & Expenses,5.04.01 Fees,5_04_01_002,Custody Fees,-,YES,YES,Income NAV,Expense,Y,-,-,-,-,-,-,-,Share Class
+5. Income & Expenses,5.04 Fees & Expenses,5.04.01 Fees,5_04_01_003,Audit Fees,-,YES,YES,Income NAV,Expense,Y,-,-,-,-,-,-,-,Share Class
+5. Income & Expenses,5.04 Fees & Expenses,5.04.01 Fees,5_04_01_004,Legal Fees,-,YES,YES,Income NAV,Expense,Y,-,-,-,-,-,-,-,Share Class
+5. Income & Expenses,5.04 Fees & Expenses,5.04.01 Fees,5_04_01_005,Other Fees,-,YES,YES,Income NAV,Expense,Y,-,-,-,-,-,-,-,-
+5. Income & Expenses,5.04 Fees & Expenses,5.04.01 Fees,5_04_01_006,Capital Gains Tax,-,YES,YES,Income NAV,Expense,N,-,-,-,-,-,-,-,-
+5. Income & Expenses,5.04 Fees & Expenses,5.04.01 Fees,5_04_01_007,Corporation Tax,-,YES,YES,Income NAV,Expense,N,-,-,-,-,-,-,-,-
+5. Income & Expenses,5.04 Fees & Expenses,5.04.01 Fees,5_04_01_008,Tax Adjustments,-,YES,YES,Income NAV,Expense,N,-,-,-,-,-,-,-,-
+5. Income & Expenses,5.04 Fees & Expenses,5.04.01 Fees,5_04_01_009,Taxation Charge,-,YES,YES,Income NAV,Expense,N,-,-,-,-,-,-,-,-
+5. Income & Expenses,5.04 Fees & Expenses,5.04.01 Fees,5_04_01_010,VAT Payable,-,YES,YES,Income NAV,Expense,N,-,-,-,-,-,-,-,-
+5. Income & Expenses,5.04 Fees & Expenses,5.04.01 Fees,5_04_01_011,Property Land Taxes,-,YES,YES,Income NAV,Expense,N,-,-,-,-,-,-,-,-
+5. Income & Expenses,5.04 Fees & Expenses,5.04.01 Fees,5_04_01_012,Irrecoverable Tax on Dividend And  Income,-,YES,YES,Income NAV,Expense,N,-,-,-,-,-,-,-,-
+5. Income & Expenses,5.04 Fees & Expenses,5.04.01 Fees,5_04_01_013,Property Land Taxes,-,YES,YES,Income NAV,Expense,N,-,-,-,-,-,-,-,-
+5. Income & Expenses,5.04 Fees & Expenses,5.04.01 Fees,5_04_01_014,Bond Tax,-,YES,YES,Income NAV,Expense,N,-,BOND; COMPLEX BOND; INFLATION LINK BOND; MBS,-,-,-,-,-,-
+5. Income & Expenses,5.04 Fees & Expenses,5.04.02 Other Expenses,5_04_02_001,Other Expenses,-,YES,YES,Income NAV,Expense,N,-,-,-,-,-,-,-,-
+5. Income & Expenses,5.04 Fees & Expenses,5.04.02 Other Expenses,5_04_02_002,Unrealised Exchange Gains/Losses on Expenses Payable,-,YES,YES,Income NAV,Expense,N,-,-,-,-,-,-,-,-
+5. Income & Expenses,5.04 Fees & Expenses,5.04.02 Other Expenses,5_04_02_003,Interest/Commision on Security Borrowing,-,YES,YES,Income NAV,Expense,N,-,-,-,-,-,-,-,-
+5. Income & Expenses,5.04 Fees & Expenses,5.04.02 Other Expenses,5_04_02_004,Interest Accural on Loan,-,YES,YES,Income NAV,Expense,N,-,-,-,-,-,-,-,-
+5. Income & Expenses,5.04 Fees & Expenses,5.04.02 Other Expenses,5_04_02_005,Interest Accrual on Secured Loan,-,YES,YES,Income NAV,Expense,N,-,-,-,-,-,-,-,-
+5. Income & Expenses,5.04 Fees & Expenses,5.04.02 Other Expenses,5_04_02_006,Externally Accounted Allowable Property Expenses,-,YES,YES,Income NAV,Expense,N,-,-,-,-,-,-,-,-
+5. Income & Expenses,5.04 Fees & Expenses,5.04.02 Other Expenses,5_04_02_007,Externally-Priced CIS – Expenses,-,YES,YES,Income NAV,Expense,N,-,-,-,-,-,-,-,-
+5. Income & Expenses,5.04 Fees & Expenses,5.04.02 Other Expenses,5_04_02_008,Lease Incentive,-,YES,YES,Income NAV,Expense,N,-,-,-,-,-,-,-,-
+5. Income & Expenses,5.04 Fees & Expenses,5.04.02 Other Expenses,5_04_02_009,Property Repairs / Maintenance,-,YES,YES,Income NAV,Expense,N,-,-,-,-,-,-,-,-
+5. Income & Expenses,5.04 Fees & Expenses,5.04.02 Other Expenses,5_04_02_010,Surrender Premiums,-,YES,YES,Income NAV,Expense,N,-,-,-,-,-,-,-,-
+5. Income & Expenses,5.04 Fees & Expenses,5.04.02 Other Expenses,5_04_02_011,TTF Holding Accounting Entries,-,YES,YES,Income NAV,Expense,N,-,-,-,-,-,-,-,-
+5. Income & Expenses,5.04 Fees & Expenses,5.04.02 Other Expenses,5_04_02_012,Class Control,-,YES,YES,Income NAV,Expense,N,-,-,-,-,-,-,-,-
+5. Income & Expenses,5.04 Fees & Expenses,5.04.02 Other Expenses,5_04_02_013,Distributions,-,YES,YES,Income NAV,Expense,N,-,-,-,-,-,-,-,-
